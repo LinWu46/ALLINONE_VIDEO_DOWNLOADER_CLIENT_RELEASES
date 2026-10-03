@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "latest_version": "3.3.12",
+  "released_at": "2026-10-03",
+  "title": "AllInOne Video Downloader v3.3.12",
+  "notes": [
+    "Mỗi nền tảng dùng session và cookie đúng domain của mình, tránh cookie Instagram, TikTok, Douyin, YouTube hoặc Facebook bị trộn khi quét và tải.",
+    "File cookie hỗn hợp được lọc thành file riêng trước khi dùng với requests và yt-dlp."
+  ],
+  "download_page_url": "https://github.com/LinWu46/ALLINONE_VIDEO_DOWNLOADER_CLIENT_RELEASES/releases/latest"
+}
