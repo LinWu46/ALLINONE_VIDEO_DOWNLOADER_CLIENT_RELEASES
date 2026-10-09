@@ -8,8 +8,9 @@
     "Cải thiện độ ổn định tải Instagram bằng session cookie tách theo nền tảng, pacing và retry có backoff.",
     "Cải thiện upload Google Drive resumable, xác minh file sau upload và giữ file trên máy khi upload thất bại.",
     "Thẻ task hiển thị số video đã lên Drive, số upload lỗi, nguyên nhân lỗi và cho phép ẩn cảnh báo qua lần mở lại ứng dụng.",
+    "Nút trong thông báo cập nhật tải ZIP trực tiếp thay vì mở trang GitHub Releases.",
     "Bổ sung cơ chế cập nhật dữ liệu cấu hình an toàn và tinh chỉnh luồng thông báo cập nhật.",
     "Cập nhật bộ cài để tạo shortcut ứng dụng trên Desktop."
   ],
-  "download_page_url": "https://github.com/LinWu46/ALLINONE_VIDEO_DOWNLOADER_CLIENT_RELEASES/releases/latest"
+  "download_page_url": "https://github.com/LinWu46/ALLINONE_VIDEO_DOWNLOADER_CLIENT_RELEASES/releases/download/v3.3.13/ALLINONE_VIDEO_DOWNLOADER-KHACH-v3.3.13.zip"
 }
