@@ -4,9 +4,11 @@
   "released_at": "2026-10-25",
   "title": "Bản cập nhật v3.3.15",
   "notes": [
-    "Sửa lỗi ứng dụng không khởi động khi PID trong `data/app.pid` đã cũ và Windows tái sử dụng PID đó cho tiến trình hệ thống khác.",
-    "Startup guard chỉ từ chối khi PID thực sự đang lắng nghe trên cổng ứng dụng; vẫn không tự tắt tiến trình lạ.",
-    "Sửa encoding thông báo PowerShell để tiếng Việt hiển thị đúng."
+    "Trình cắt video Hook: giao diện chỉnh sửa mới, tự động lưu cài đặt, nút Đặt lại và hàng đợi cắt nhiều video.",
+    "Thẻ tiến trình hiển thị thư mục output trên máy và trên Google Drive; bấm biểu tượng thư mục để mở.",
+    "Tăng bảo mật khi mở thư mục từ ứng dụng.",
+    "Sửa lỗi ứng dụng không khởi động khi tệp PID cũ còn sót lại.",
+    "Sửa lỗi hiển thị tiếng Việt trong thông báo."
   ],
   "download_page_url": "https://github.com/LinWu46/ALLINONE_VIDEO_DOWNLOADER_CLIENT_RELEASES/releases/download/v3.3.15/ALLINONE_VIDEO_DOWNLOADER-KHACH-v3.3.15.zip"
 }
