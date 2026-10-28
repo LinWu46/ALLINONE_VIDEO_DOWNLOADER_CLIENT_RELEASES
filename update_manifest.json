@@ -1,14 +1,16 @@
 {
   "schema": 1,
-  "latest_version": "3.3.15",
-  "released_at": "2026-10-25",
-  "title": "Bản cập nhật v3.3.15",
+  "latest_version": "3.3.16",
+  "released_at": "2026-10-28",
+  "title": "Bản cập nhật v3.3.16",
   "notes": [
-    "Trình cắt video Hook: giao diện chỉnh sửa mới, tự động lưu cài đặt, nút Đặt lại và hàng đợi cắt nhiều video.",
-    "Thẻ tiến trình hiển thị thư mục output trên máy và trên Google Drive; bấm biểu tượng thư mục để mở.",
-    "Tăng bảo mật khi mở thư mục từ ứng dụng.",
-    "Sửa lỗi ứng dụng không khởi động khi tệp PID cũ còn sót lại.",
-    "Sửa lỗi hiển thị tiếng Việt trong thông báo."
+    "Cải thiện bố cục Hook, thao tác cắt đoạn và tự động lưu khi làm việc với nhiều video.",
+    "Thẻ Tiến trình hiển thị trạng thái tải, tạm dừng, hoàn tất và lỗi rõ ràng hơn; giữ nguyên hành động mở thư mục Local hoặc Google Drive.",
+    "Sửa việc làm mới danh sách nguồn làm mất vị trí cuộn.",
+    "Hỗ trợ Google Picker bằng OAuth client và API key của dự án allinone-drive.",
+    "Giới hạn thông tin trả về từ trạng thái Drive và kiểm tra Host/Origin cho các route Drive.",
+    "Giữ các bản sửa khởi động khi gặp PID cũ từ v3.3.15.",
+    "Sửa lỗi thao tác Hook bị chặn khi ứng dụng chạy trên cổng khác 5050."
   ],
-  "download_page_url": "https://github.com/LinWu46/ALLINONE_VIDEO_DOWNLOADER_CLIENT_RELEASES/releases/download/v3.3.15/ALLINONE_VIDEO_DOWNLOADER-KHACH-v3.3.15.zip"
+  "download_page_url": "https://github.com/LinWu46/ALLINONE_VIDEO_DOWNLOADER_CLIENT_RELEASES/releases/download/v3.3.16/ALLINONE_VIDEO_DOWNLOADER-KHACH-v3.3.16.zip"
 }
